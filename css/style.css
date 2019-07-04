@@ -1,0 +1,43 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../img/architecture.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container-fluid .h-100{
+	background: #CCFF33;
+	height: 100vh;
+	min-height: 500px;
+	opacity:0.7;
+	padding-left:50px;
+	font-weight: 900;
+}
+
+.masthead2 {
+  height: 50vh;
+  min-height: 500px;
+  background-image: url('../img/renovation.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand img{
+	width: 140px;
+}
+
+.navbar-brand{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
+	top: 5px;
+}
+
+.navbar{
+	background-color: #252636;
+	height:80px;
+}
+
